@@ -1,0 +1,3 @@
+    const element = document.getElementById("myElement");
+    element.textContent = "Geometry Formula: ax+b+cxx"; // Replaces existing text
+    element.innerText = "Answer 2x+5 and shoot the ball"; // Similar to textContent but considers rendered text
